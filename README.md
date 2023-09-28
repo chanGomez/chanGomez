@@ -1,7 +1,6 @@
+[![MasterHead][(https://1.bp.blogspot.com/-7A4WynwLsM...)](https://images.squarespace-cdn.com/content/v1/63b710806ca7781c56e98fc8/3580f968-5ea3-487c-afc2-a7bf23f8b3fa/Spring+Break+Banner+Web-flip.png)]
 <h1 align="center">I'm Chantal Gomez 💽</h1>
 <h3 align="center">A passionate full stack web developer from New York.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=changomez" alt="changomez" /></a> </p>
 
 - 🔑 I’m currently working on [my online store project.](https://article-chantal-gomez.netlify.app/)
 
