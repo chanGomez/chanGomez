@@ -3,15 +3,15 @@
 
 Aside from coding, I also have a passion for art. I went to New York City College of Technology for my associates degree in Communications Design. If you are interested, here's a link to my behanced portfolio with just a bit of the work I have done -> https://www.behance.net/nicolemartes1** 
 
-- 🔑 I’m currently working on [my online store project.](https://article-chantal-gomez.netlify.app/)
+- I’m currently working on [my online store project.](https://article-chantal-gomez.netlify.app/)
 
-- 🌱 My next steps is to learn **python.**
+- My next steps is to learn **python.**
 
-- 💽 All of my projects are available at [https://chantal-gomez.netlify.app/.](https://chantal-gomez.netlify.app/.)
+- All of my projects are available at [https://chantal-gomez.netlify.app/.](https://chantal-gomez.netlify.app/.)
 
-- 💬 Ask me about **react, javascript, postgreSQL, node.js.**
+- Ask me about **react, javascript, postgreSQL, node.js.**
 
-- 💌 You can reach me at **chantal.gomez.ny@gmail.com.**
+- You can reach me at **chantal.gomez.ny@gmail.com.**
 
 
 <h3 align="left">Connect with me:</h3>
