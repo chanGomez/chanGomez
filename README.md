@@ -3,7 +3,7 @@
 
 Aside from coding, I also have a passion for art. I went to New York City College of Technology for my associates degree in Communications Design. If you are interested, here's a link to my behanced portfolio with just a bit of the work I have done -> https://www.behance.net/nicolemartes1** 
 
-- I’m currently working on [birthday gift registery app.]([https://article-chantal-gomez.netlify.app/](https://giftune.netlify.app/))
+- I’m currently working on [birthday gift registery app.]([https://giftune.netlify.app/]))
 
 - My next steps is to learn **python.**
 
