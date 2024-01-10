@@ -5,7 +5,7 @@ Aside from coding, I also have a passion for art. I went to New York City Colleg
 
 - I’m currently working on [birthday gift registery app.](https://giftune.netlify.app/)
 
-- My next steps is to learn **python.**
+- My next steps is to learn **React Native.**
 
 - All of my projects are available at [https://chantal-gomez.netlify.app/.](https://chantal-gomez.netlify.app/.)
 
