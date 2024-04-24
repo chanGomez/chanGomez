@@ -7,7 +7,7 @@ Aside from coding, I also have a passion for art. I went to New York City Colleg
 
 - My next steps is to learn **React Native.**
 
-- Some of my projects I have done are available at [https://chantal-gomez.netlify.app/.](https://chantalgomez.netlify.app/)
+- Some of my projects I have done are available at my [portfolio.](https://chantalgomez.netlify.app/)
 
 - Ask me about **react, javascript, postgreSQL, node.js.**
 
