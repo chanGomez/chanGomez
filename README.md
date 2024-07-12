@@ -1,18 +1,4 @@
-![MasterHead](
-
-                                                                                                                          
-    ,o888888o.    8 8888        8          .8.          b.             8 8888888 8888888888   .8.          8 8888         
-   8888     `88.  8 8888        8         .888.         888o.          8       8 8888        .888.         8 8888         
-,8 8888       `8. 8 8888        8        :88888.        Y88888o.       8       8 8888       :88888.        8 8888         
-88 8888           8 8888        8       . `88888.       .`Y888888o.    8       8 8888      . `88888.       8 8888         
-88 8888           8 8888        8      .8. `88888.      8o. `Y888888o. 8       8 8888     .8. `88888.      8 8888         
-88 8888           8 8888        8     .8`8. `88888.     8`Y8o. `Y88888o8       8 8888    .8`8. `88888.     8 8888         
-88 8888           8 8888888888888    .8' `8. `88888.    8   `Y8o. `Y8888       8 8888   .8' `8. `88888.    8 8888         
-`8 8888       .8' 8 8888        8   .8'   `8. `88888.   8      `Y8o. `Y8       8 8888  .8'   `8. `88888.   8 8888         
-   8888     ,88'  8 8888        8  .888888888. `88888.  8         `Y8o.`       8 8888 .888888888. `88888.  8 8888         
-    `8888888P'    8 8888        8 .8'       `8. `88888. 8            `Yo       8 8888.8'       `8. `88888. 8 888888888888 
-                                                                                                                                                                 
-)<h1 align="center">I'm Chantal Gomez</h1>
+![MasterHead](https://sothebys-com.brightspotcdn.com/dims4/default/4e543c3/2147483647/strip/true/crop/1920x440+0+130/resize/1440x330!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot-migration.s3.amazonaws.com%2Faf%2F64%2Fe0%2F92cf0ccd9127e64ec2044f437296a6e819fb1e774171613444e6005b4d%2Fmuhammad-ali-banner.jpg)<h1 align="center">I'm Chantal Gomez</h1>
 <h3 align="center">A passionate full stack web developer who loves crafting digital experiences.</h3>
 
 Aside from coding, I also have a passion for art. I went to New York City College of Technology for my associates degree in Communications Design. If you are interested, here's a link to my behanced portfolio with just a bit of the work I have done -> https://www.behance.net/nicolemartes1** 
