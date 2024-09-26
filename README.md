@@ -1,7 +1,7 @@
 ![MasterHead](https://sothebys-com.brightspotcdn.com/dims4/default/4e543c3/2147483647/strip/true/crop/1920x440+0+130/resize/1440x330!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot-migration.s3.amazonaws.com%2Faf%2F64%2Fe0%2F92cf0ccd9127e64ec2044f437296a6e819fb1e774171613444e6005b4d%2Fmuhammad-ali-banner.jpg)<h1 align="center">I'm Chantal Gomez</h1>
 <h3 align="center">A passionate full stack web developer who loves crafting digital experiences.</h3>
 
-Aside from coding, I also have a passion for art. I went to New York City College of Technology for my associates degree in Communications Design. If you are interested, here's a link to my behanced portfolio with just a bit of the work I have done -> https://www.behance.net/nicolemartes1** 
+I have a passion for creating. Whether it's designing advertisement posters or developing full-stack web applications, I'm consistently thrilled by the process of bringing ideas from concept to reality.
 
 - I’m currently working on a npm package called [reCalibrate.](https://www.npmjs.com/package/recalibrate?activeTab=readme)
 
