@@ -1,4 +1,5 @@
 ![MasterHead](https://sothebys-com.brightspotcdn.com/dims4/default/4e543c3/2147483647/strip/true/crop/1920x440+0+130/resize/1440x330!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot-migration.s3.amazonaws.com%2Faf%2F64%2Fe0%2F92cf0ccd9127e64ec2044f437296a6e819fb1e774171613444e6005b4d%2Fmuhammad-ali-banner.jpg)<h1 align="center">I'm Chantal Gomez</h1>
+
 <h3 align="center">A passionate full stack web developer who loves crafting digital experiences.</h3>
 
 I have a passion for creating. Whether it's designing advertisement posters or developing full-stack web applications, I'm consistently thrilled by the process of bringing ideas from concept to reality.
@@ -12,13 +13,23 @@ I have a passion for creating. Whether it's designing advertisement posters or d
 - Ask me about **react, javascript, postgreSQL, node.js.**
 
 - You can reach me at **chantal.gomez.ny@gmail.com.**
+  
+<hr />
 
+<div style="text-align: center;" align="center"> 
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&width=535&lines=Website+Development;Data;Backend"  alt="Hello World!"/>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chantal gomez marte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chantal gomez marte" height="30" width="40" /></a>
+<div align="center">
+  <img width="345" style="margin-right: 30px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=johndeweyzxc&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=7.5" />
+  <img width="476" src="[https://github-readme-streak-stats.herokuapp.com?user=chanGomez&theme=gruvbox&hide_border=true&mode=weekly]" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<hr />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=changomez&show_icons=true&locale=en&layout=compact" alt="changomez" /></p>
+<div>
+  <h3 align="center">Technologies I've used</h3>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,express,git,javascript,express,nodejs,tailwind,materialui,vite,firebase" />
+  </div>
+</div>
