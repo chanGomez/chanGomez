@@ -8,7 +8,7 @@ I have a passion for creating. Whether it's designing advertisement posters or d
 
 - My next steps is to learn **PYTHON.**
 
-- Some of my projects I have done are available at my [portfolio.](https://chantalgomez.netlify.app/)
+- Some of my projects I have done are available at my [portfolio.](https://chantalgomez.com/)
 
 - Ask me about **react, javascript, postgreSQL, node.js.**
 
