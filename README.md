@@ -6,7 +6,7 @@ I have a passion for creating. Whether it's designing advertisement posters or d
 
 - I’m currently working on a npm package called [reCalibrate.](https://www.npmjs.com/package/recalibrate?activeTab=readme)
 
-- My next steps is to learn **PYTHON.** and obtain the Google Cybersecurity Certificate.
+- My next steps is to learn **PYTHON** and obtain the Google Cybersecurity Certificate.
 
 - Some of my projects I have done are available at my [portfolio.](https://chantalgomez.com/)
 
