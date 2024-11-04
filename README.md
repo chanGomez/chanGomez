@@ -6,11 +6,11 @@ I have a passion for creating. Whether it's designing advertisement posters or d
 
 - I’m currently working on a npm package called [reCalibrate.](https://www.npmjs.com/package/recalibrate?activeTab=readme)
 
-- My next steps is to learn **PYTHON.**
+- My next steps is to learn **PYTHON.** and obtain the Google Cybersecurity Certificate.
 
 - Some of my projects I have done are available at my [portfolio.](https://chantalgomez.com/)
 
-- Ask me about **react, javascript, postgreSQL, node.js.**
+- Ask me about **react, javascript, postgreSQL, Express, React and node.js.**
 
 - You can reach me at **chantal.gomez.ny@gmail.com.**
   
